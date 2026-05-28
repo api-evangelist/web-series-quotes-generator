@@ -1,0 +1,32 @@
+aid: web-series-quotes-generator
+name: Web Series Quotes Generator
+description: "API generates various Web Series Quote Images"
+url: https://github.com/yogeshwaran01/web-series-quotes
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Video"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Video
+  - Public APIs
+apis:
+  - name: Web Series Quotes Generator
+    description: "API generates various Web Series Quote Images"
+    humanURL: https://github.com/yogeshwaran01/web-series-quotes
+    baseURL: https://github.com/yogeshwaran01/web-series-quotes
+    tags:
+      - Video
+    properties:
+      - type: Documentation
+        url: https://github.com/yogeshwaran01/web-series-quotes
+common:
+  - type: Website
+    url: https://github.com/yogeshwaran01/web-series-quotes
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
