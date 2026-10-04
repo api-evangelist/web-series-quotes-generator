@@ -39,7 +39,6 @@ apis:
   - name: Web Series Quotes Generator
     description: "API generates various Web Series Quote Images"
     humanURL: https://github.com/yogeshwaran01/web-series-quotes
-    baseURL: https://github.com/yogeshwaran01/web-series-quotes
     tags:
       - Video
     properties:
